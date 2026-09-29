@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+.vercel
+
+# Dependencies
+node_modules/
+.env*
+graphify-out/

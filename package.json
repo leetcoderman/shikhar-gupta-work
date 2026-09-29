@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "vercel": "^55.0.0"
+  },
+  "name": "sun-king-apm-main",
+  "version": "1.0.0",
+  "description": "A personal portfolio website built as part of the Sun King hiring assessment.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
